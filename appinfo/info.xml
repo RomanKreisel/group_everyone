@@ -5,8 +5,14 @@
     <description>A group for everyone on the server</description>
     <licence>AGPL</licence>
     <author>AKSW and some modifications by Roman Kreisel</author>
-    <requiremin>4.93</requiremin>
-    <shipped>false</shipped>
+    <requiremin>8</requiremin>
+    <category>tool</category>
+    <bugs>https://github.com/RomanKreisel/group_everyone/issues</bugs>
+    <repository type="git">https://github.com/RomanKreisel/group_everyone.git</repository>
+    <ocsid>174661</ocsid>
+    <dependencies>
+        <owncloud min-version="8.2" max-version="8.2"/>
+    </dependencies>
     <types>
         <authentication/>
     </types>
