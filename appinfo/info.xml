@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+    <id>group_everyone</id>
+    <name>Virtual group 'Everyone'</name>
+    <description>A group for everyone on the server</description>
+    <licence>AGPL</licence>
+    <author>AKSW and some modifications by Roman Kreisel</author>
+    <requiremin>4.93</requiremin>
+    <shipped>false</shipped>
+    <types>
+        <authentication/>
+    </types>
+</info>
