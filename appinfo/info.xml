@@ -12,7 +12,7 @@
     <website>https://github.com/RomanKreisel/group_everyone</website>
     <ocsid>174661</ocsid>
     <dependencies>
-        <owncloud min-version="8.2" max-version="8.2"/>
+        <owncloud min-version="8.2" max-version="9.0"/>
     </dependencies>
     <types>
         <authentication/>
